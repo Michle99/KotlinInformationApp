@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KotlinInformationApp</string>
+    <string name="title">Kotlin</string>
+    <string name="titleImageDescription">Kotlin Logo</string>
+    <string name="information">
+        Kotlin is a cross-platform programming language with type interface.
+        \nKotlin is designed to fully interoperate with Java.
+        \nGoogle announced that Kotlin is its preferred language for android development.
+         \nKotlin is a cross-platform programming language with type interface.
+          \nKotlin is designed to fully interoperate with Java.
+           \nGoogle announced that Kotlin is its preferred language for android development.
+           \n Kotlin is a cross-platform programming language with type interface.
+            \nKotlin is designed to fully interoperate with Java.
+            \nGoogle announced that Kotlin is its preferred language for android development.
+             \nKotlin is a cross-platform programming language with type interface.
+              \nKotlin is designed to fully interoperate with Java.
+               \nGoogle announced that Kotlin is its preferred language for android development.
+    </string>
+
+</resources>
